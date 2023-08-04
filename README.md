@@ -1,1 +1,5 @@
 # All_India_Hackathon
+A website named “Wags and Whiskers” with two primary functions - pet adoption and lost/found pets. For the lost and found feature, pet owners who have lost their pets can upload details about their pet such as breed, age, color, and identification marks, along with a photo of the pet to the website to alert others that their pet is missing. Additionally, if someone finds an abandoned animal, they can use the same functionality to upload details and list the animal in the lost section of the website. This will help facilitate the reunion of lost pets with their owners and aid in pet adoptions.
+
+The second function of the website is the adoption section. On this page, pet owners who are looking to give away their animals can list their pets for adoption. Here, owners can specify important details such as breed, age, eating habits, color, and any other relevant information to help potential adopters find the perfect pet for their home. By providing a platform for pet adoption, we hope to encourage responsible pet ownership and reduce the number of animals in need of homes.
+
